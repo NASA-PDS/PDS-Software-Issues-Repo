@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Applicable Software Tool(s)**
+Enter the name software you encountered the bug here
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
