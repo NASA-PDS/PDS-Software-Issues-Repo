@@ -1,2 +1,3 @@
-# NASA PDS Incubator New Project Template
-This repo is a template repo used for creating new NASA PDS Incubator projects.
+# NASA PDS Software Issue Repository
+
+Issue tracking repository as a centralized entry point for general PDS software bugs and feature requests, where the repository for the tool is unknown.
