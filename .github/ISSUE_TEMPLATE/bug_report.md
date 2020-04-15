@@ -7,9 +7,6 @@ assignees: ''
 
 ---
 
-**Applicable Software Tool(s)**
-Enter the name software you encountered the bug here
-
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -36,3 +33,7 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
+
+**Applicable requirements**
+ :unicorn: #1
+ :unicorn: #2
